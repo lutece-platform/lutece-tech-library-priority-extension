@@ -32,19 +32,6 @@
 	</repositories>
 
 	<dependencies>
-
-		<!-- microprofile config api  -->
-		<dependency>
-			<groupId>org.eclipse.microprofile.config</groupId>
-			<artifactId>microprofile-config-api</artifactId>
-		</dependency>
-
-		<!-- @Annotation API -->
-		<dependency>
-			<groupId>jakarta.annotation</groupId>
-			<artifactId>jakarta.annotation-api</artifactId>
-			<scope>provided</scope>
-		</dependency>
 		
 	</dependencies>
 
