@@ -7,7 +7,7 @@
 	</parent>
 	<groupId>fr.paris.lutece.plugins</groupId>
 	<artifactId>library-priority-extension</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>Lutece priority-extension library</name>
 
 	<repositories>
@@ -32,7 +32,7 @@
     <connection>scm:git:https://github.com/lutece-platform/lutece-tech-library-priority-extension.git</connection>
     <developerConnection>scm:git:https://github.com/lutece-platform/lutece-tech-library-priority-extension.git</developerConnection>
     <url>https://github.com/lutece-platform/lutece-tech-library-priority-extension.git</url>
-    <tag>library-priority-extension-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 	<dependencies>
 		
